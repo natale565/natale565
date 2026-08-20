@@ -56,15 +56,6 @@ A MySpace-inspired social network — profile customization, the whole nostalgia
 
 ---
 
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natale565&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natale565&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" height="150">
-</p>
-
----
-
 <p align="center">
   Open to backend and full-stack opportunities — <a href="mailto:christopherrnatale@gmail.com">say hi</a>.
 </p>

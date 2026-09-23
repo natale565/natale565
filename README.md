@@ -56,6 +56,10 @@ A MySpace-inspired social network — profile customization, the whole nostalgia
 
 ---
 
+## certifications
+
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3ce67d36-dc89-47cc-8217-cbe7d42c5042.jpeg?v=1790128810)](https://www.boot.dev/certificates/3ce67d36-dc89-47cc-8217-cbe7d42c5042)
+
 <p align="center">
   Open to backend and full-stack opportunities — <a href="mailto:christopherrnatale@gmail.com">say hi</a>.
 </p>
